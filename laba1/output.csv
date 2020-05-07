@@ -1,11 +1,11 @@
-,Unnamed: 0,Group,product_name,nutrition_grade_fr,nutrition_grade_fr_n,pnns_groups_2,carbon-footprint_100g,ingredients_from_palm_oil_n,ingredients_that_may_be_from_palm_oil_n
-0,865509,gr1,Suprême Noir Authentique,d,8.0,chocolate products,2842.0,0.0,0.0
-1,386563,gr2,Viande des grisons,d,8.0,meat,2520.0,0.0,0.0
-2,388524,gr1,Saucisson sec,e,1.0,processed meat,2380.0,0.0,0.0
-3,857744,gr2,Chocolat blanc,e,1.0,chocolate products,1440.0,0.0,0.0
-4,857745,gr1,Chocolat au lait ,e,1.0,chocolate products,1321.0,0.0,0.0
-5,864987,gr2,Chocolat Tourist Crémant,e,1.0,chocolate products,1311.0,0.0,0.0
-6,857739,gr1,Chocolat au lait,e,1.0,chocolate products,1305.0,0.0,0.0
-7,865019,gr2,Chocolat noir fourré à la crème d'amandes,e,1.0,chocolate products,1293.0,1.0,0.0
-8,388540,gr1,Jambon de Bayonne,e,1.0,processed meat,1285.0,0.0,0.0
-9,387719,gr2,Emmental Français Est-Central IGP au lait cru (32 % MG) Grand Cru - label Rouge ,d,8.0,cheese,1275.0,0.0,0.0
+,id,Group,name,rgb,is_trans
+0,-1,gr1,Unknown,0033B2,f
+1,0,gr1,Black,05131D,f
+2,1,gr1,Blue,0055BF,f
+3,2,gr1,Green,237841,f
+4,3,gr1,Dark Turquoise,008F9B,f
+5,4,gr2,Red,C91A09,f
+6,5,gr2,Dark Pink,C870A0,f
+7,6,gr2,Brown,583927,f
+8,7,gr2,Light Gray,9BA19D,f
+9,8,gr2,Dark Gray,6D6E5C,f

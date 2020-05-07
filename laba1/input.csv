@@ -1,0 +1,136 @@
+,id,name,rgb,is_trans
+0,-1,Unknown,0033B2,f
+1,0,Black,05131D,f
+2,1,Blue,0055BF,f
+3,2,Green,237841,f
+4,3,Dark Turquoise,008F9B,f
+5,4,Red,C91A09,f
+6,5,Dark Pink,C870A0,f
+7,6,Brown,583927,f
+8,7,Light Gray,9BA19D,f
+9,8,Dark Gray,6D6E5C,f
+10,9,Light Blue,B4D2E3,f
+11,10,Bright Green,4B9F4A,f
+12,11,Light Turquoise,55A5AF,f
+13,12,Salmon,F2705E,f
+14,13,Pink,FC97AC,f
+15,14,Yellow,F2CD37,f
+16,15,White,FFFFFF,f
+17,17,Light Green,C2DAB8,f
+18,18,Light Yellow,FBE696,f
+19,19,Tan,E4CD9E,f
+20,20,Light Violet,C9CAE2,f
+21,21,Glow In Dark Opaque,D4D5C9,f
+22,22,Purple,81007B,f
+23,23,Dark Blue-Violet,2032B0,f
+24,25,Orange,FE8A18,f
+25,26,Magenta,923978,f
+26,27,Lime,BBE90B,f
+27,28,Dark Tan,958A73,f
+28,29,Bright Pink,E4ADC8,f
+29,30,Medium Lavender,AC78BA,f
+30,31,Lavender,E1D5ED,f
+31,32,Trans-Black IR Lens,635F52,t
+32,33,Trans-Dark Blue,0020A0,t
+33,34,Trans-Green,84B68D,t
+34,35,Trans-Bright Green,D9E4A7,t
+35,36,Trans-Red,C91A09,t
+36,40,Trans-Black,635F52,t
+37,41,Trans-Light Blue,AEEFEC,t
+38,42,Trans-Neon Green,F8F184,t
+39,43,Trans-Very Lt Blue,C1DFF0,t
+40,45,Trans-Dark Pink,DF6695,t
+41,46,Trans-Yellow,F5CD2F,t
+42,47,Trans-Clear,FCFCFC,t
+43,52,Trans-Purple,A5A5CB,t
+44,54,Trans-Neon Yellow,DAB000,t
+45,57,Trans-Neon Orange,FF800D,t
+46,60,Chrome Antique Brass,645A4C,f
+47,61,Chrome Blue,6C96BF,f
+48,62,Chrome Green,3CB371,f
+49,63,Chrome Pink,AA4D8E,f
+50,64,Chrome Black,1B2A34,f
+51,68,Very Light Orange,F3CF9B,f
+52,69,Light Purple,CD6298,f
+53,70,Reddish Brown,582A12,f
+54,71,Light Bluish Gray,A0A5A9,f
+55,72,Dark Bluish Gray,6C6E68,f
+56,73,Medium Blue,5A93DB,f
+57,74,Medium Green,73DCA1,f
+58,75,Speckle Black-Copper,000000,f
+59,76,Speckle DBGray-Silver,635F61,f
+60,77,Light Pink,FECCCF,f
+61,78,Light Flesh,F6D7B3,f
+62,79,Milky White,FFFFFF,f
+63,80,Metallic Silver,A5A9B4,f
+64,81,Metallic Green,899B5F,f
+65,82,Metallic Gold,DBAC34,f
+66,84,Medium Dark Flesh,CC702A,f
+67,85,Dark Purple,3F3691,f
+68,86,Dark Flesh,7C503A,f
+69,89,Royal Blue,4C61DB,f
+70,92,Flesh,D09168,f
+71,100,Light Salmon,FEBABD,f
+72,110,Violet,4354A3,f
+73,112,Blue-Violet,6874CA,f
+74,114,Glitter Trans-Dark Pink,DF6695,t
+75,115,Medium Lime,C7D23C,f
+76,117,Glitter Trans-Clear,FFFFFF,t
+77,118,Aqua,B3D7D1,f
+78,120,Light Lime,D9E4A7,f
+79,125,Light Orange,F9BA61,f
+80,129,Glitter Trans-Purple,A5A5CB,t
+81,132,Speckle Black-Silver,000000,f
+82,133,Speckle Black-Gold,000000,f
+83,134,Copper,AE7A59,f
+84,135,Pearl Light Gray,9CA3A8,f
+85,137,Metal Blue,7988A1,f
+86,142,Pearl Light Gold,DCBC81,f
+87,143,Trans-Medium Blue,CFE2F7,t
+88,148,Pearl Dark Gray,575857,f
+89,150,Pearl Very Light Gray,ABADAC,f
+90,151,Very Light Bluish Gray,E6E3E0,f
+91,158,Yellowish Green,DFEEA5,f
+92,178,Flat Dark Gold,B48455,f
+93,179,Flat Silver,898788,f
+94,182,Trans-Orange,F08F1C,t
+95,183,Pearl White,F2F3F2,f
+96,191,Bright Light Orange,F8BB3D,f
+97,212,Bright Light Blue,9FC3E9,f
+98,216,Rust,B31004,f
+99,226,Bright Light Yellow,FFF03A,f
+100,230,Trans-Pink,E4ADC8,t
+101,232,Sky Blue,7DBFDD,f
+102,236,Trans-Light Purple,96709F,t
+103,272,Dark Blue,0A3463,f
+104,288,Dark Green,184632,f
+105,294,Glow In Dark Trans,BDC6AD,t
+106,297,Pearl Gold,AA7F2E,f
+107,308,Dark Brown,352100,f
+108,313,Maersk Blue,3592C3,f
+109,320,Dark Red,720E0F,f
+110,321,Dark Azure,078BC9,f
+111,322,Medium Azure,36AEBF,f
+112,323,Light Aqua,ADC3C0,f
+113,326,Olive Green,9B9A5A,f
+114,334,Chrome Gold,BBA53D,f
+115,335,Sand Red,D67572,f
+116,351,Medium Dark Pink,F785B1,f
+117,366,Earth Orange,FA9C1C,f
+118,373,Sand Purple,845E84,f
+119,378,Sand Green,A0BCAC,f
+120,379,Sand Blue,6074A1,f
+121,383,Chrome Silver,E0E0E0,f
+122,450,Fabuland Brown,B67B50,f
+123,462,Medium Orange,FFA70B,f
+124,484,Dark Orange,A95500,f
+125,503,Very Light Gray,E6E3DA,f
+126,1000,Glow in Dark White,D9D9D9,f
+127,1001,Medium Violet,9391E4,f
+128,1002,Glitter Trans-Neon Green,C0F500,t
+129,1003,Glitter Trans-Light Blue,68BCC5,t
+130,1004,Trans Flame Yellowish Orange,FCB76D,t
+131,1005,Trans Fire Yellow,FBE890,t
+132,1006,Trans Light Royal Blue,B4D4F7,t
+133,1007,Reddish Lilac,8E5597,f
+134,9999,[No Color],05131D,f
